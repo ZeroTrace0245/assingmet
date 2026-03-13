@@ -14,7 +14,7 @@ Make sure these are installed:
 In terminal:
 
 ```powershell
-cd "e:\assingmet 2"
+cd "your location"
 ```
 
 ## 3. Install Dependencies
