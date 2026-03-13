@@ -1,5 +1,3 @@
-# Step-by-Step Guide (Assignment 2)
-
 This project is a simple Node.js + Express app that:
 - accepts a name using a `POST` form submission,
 - redirects to a `GET` route,
